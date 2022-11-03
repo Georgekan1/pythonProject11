@@ -40,3 +40,7 @@ for em in [email1, email2, email3, email4]:
 if len(a)=0 and len(b)=1
 
     #print(check_email(email1))
+
+
+
+to be continued
