@@ -26,3 +26,5 @@ while True:
     print(f'j={j}')
 
 
+j=dfw
+
